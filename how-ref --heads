@@ -1,0 +1,19 @@
+*   [33m11e29fe[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'matsuolab:main' into main
+[31m|[m[32m\[m  
+[31m|[m *   [33m1ce722c[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m Merge pull request #520 from Limmel6/lec05
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m *   [33m62b9061[m Merge pull request #1 from Limmel6/lec05-bundle-db
+[31m|[m [33m|[m [35m|[m[36m\[m  
+[31m|[m [33m|[m [35m|[m * [33m88b420a[m 第5回: 作成済みの検索DBを同梱する
+[31m|[m [33m|[m [35m|[m[35m/[m  
+[31m|[m [33m|[m * [33md6ff1a7[m 第5回: 講義資料を検索して回答する演習・宿題を追加
+[31m|[m [33m|[m[33m/[m  
+[31m|[m *   [33mbc41dfa[m[33m ([m[1;33mtag: [m[1;33mlec04-start[m[33m)[m Merge pull request #432 from matsuolab/lec04-prep
+[31m|[m [1;31m|[m[1;32m\[m  
+[31m|[m [1;31m|[m * [33mcf0e2c3[m 第4回: 評価セットのラベル付けと LLM-as-a-Judge の演習・宿題を追加
+[31m|[m [1;31m|[m * [33m6df1d11[m MCP の回を第5回から第6回に変更（第5回はデータとコンテキストの回になるため）
+[31m|[m [1;31m|[m[1;31m/[m  
+[31m|[m * [33mfae899a[m B2: 第2回の参考結果（講師が T4 で実行したもの）を追加
+[31m|[m * [33m123fcc1[m[33m ([m[1;33mtag: [m[1;33mlec03-start[m[33m)[m A4: 用語集と第3回の要点から adk web の説明を外す
+[31m|[m * [33mf3f40a3[m A3: 承認付きのツールを足しても test_agent が落ちないようにする
+[31m|[m * [33mcfcfef2[m B4: 第3回の参考リンクを移転先の URL にする
